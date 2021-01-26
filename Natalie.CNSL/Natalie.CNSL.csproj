@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>CNSL</AssemblyName>
+    <RootNamespace>DKSY.Natalie.CNSL</RootNamespace>
+    <StartupObject>DKSY.Natalie.CNSL.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Natalie\Natalie.csproj" />
+  </ItemGroup>
+
+</Project>

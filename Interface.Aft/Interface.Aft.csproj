@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>DKSY.Interface.Aft</RootNamespace>
+    <AssemblyName>Interface</AssemblyName>
+    <Authors>ancient-vinegar</Authors>
+  </PropertyGroup>
+
+</Project>
